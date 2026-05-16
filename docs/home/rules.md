@@ -1,0 +1,51 @@
+---
+sidebar_position: 1
+title: ðï¸å®åè§å
+slug: /home/rules
+---
+
+<article><div class="theme-doc-markdown markdown"><header><h1>ðï¸å®åè§å</h1></header>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="information">è´­ä¹°ä¿¡æ¯<a aria-label="è´­ä¹°ä¿¡æ¯çç´æ¥é¾æ¥" class="hash-link" href="#information" title="è´­ä¹°ä¿¡æ¯çç´æ¥é¾æ¥" translate="no">â</a></h2>
+<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewbox="0 0 12 16"><path d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z" fill-rule="evenodd"></path></svg></span>éè¦æç¤º</div><div class="admonitionContent_BuS1"><ul>
+<li class=""><strong>è¯·ä¿å­ä½ å¥½è´­ä¹°ç<code>æ¿æ´»ç å¡å¯</code>ä¿¡æ¯</strong></li>
+<li class=""><strong>è¯·ä¿å­å¥½ä½ çæ³¨åçèå<code>è´¦å·å¯ç </code>ä¿¡æ¯</strong></li>
+<li class=""><strong><code>ä¸¢å¤±æ æ³æ¾å,ææåæçç±è´­ä¹°ä½¿ç¨èæ¿æ</code></strong></li>
+<li class=""><strong>ä¸è¦<code>å±äº«</code>ä½ è´­ä¹°çèåè´¦å·/å¯ç /æ¿æ´»ç ç­,èåä¼èªå¨<code>æ£æµ</code>,æ£æµå°å±äº«ä¼è¢«èªå¨<code>å°ç¦</code></strong></li>
+</ul></div></div>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="function">èååè½<a aria-label="èååè½çç´æ¥é¾æ¥" class="hash-link" href="#function" title="èååè½çç´æ¥é¾æ¥" translate="no">â</a></h2>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewbox="0 0 14 16"><path d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z" fill-rule="evenodd"></path></svg></span>åè½è¯´æ</div><div class="admonitionContent_BuS1"><p><strong>æ¯ä¸ªèåé½ä¼éçæ´æ°éæ­¥å¢å æç§»é¤åè½ï¼ååä»ç»è·åè½å¾ä»ä½åèï¼ä½ å¯ä»¥æ ¹æ®èåæ´æ°å¬åäºè§£ææ°çåè½ç°ç¶</strong></p></div></div>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="terms">æå¡æ¡æ¬¾<a aria-label="æå¡æ¡æ¬¾çç´æ¥é¾æ¥" class="hash-link" href="#terms" title="æå¡æ¡æ¬¾çç´æ¥é¾æ¥" translate="no">â</a></h2>
+<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewbox="0 0 12 16"><path d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z" fill-rule="evenodd"></path></svg></span>ä¿çå­è¯</div><div class="admonitionContent_BuS1"><p><strong>ä¸ºä¿è¯å®åæå¡è´¨é,è¯·ä¿å­å¥½è®¢åå·/ä»æ¬¾æªå¾ç­ä¸åå¯ä»¥è¯æä½ è´­ä¹°çå­è¯</strong></p></div></div>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewbox="0 0 14 16"><path d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z" fill-rule="evenodd"></path></svg></span>ä»·ä¿è¯´æ</div><div class="admonitionContent_BuS1"><ul>
+<li class=""><strong>ååºåææçæ°¸ä¹æéèååä»·ä¿5å¤©</strong></li>
+<li class=""><strong>è´­ä¹°å5å¤©åè·è·¯,åéè¿è®¢åéé¢ä¸å</strong></li>
+</ul></div></div>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="after-sales">å®åç¾¤ç»<a aria-label="å®åç¾¤ç»çç´æ¥é¾æ¥" class="hash-link" href="#after-sales" title="å®åç¾¤ç»çç´æ¥é¾æ¥" translate="no">â</a></h2>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewbox="0 0 14 16"><path d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z" fill-rule="evenodd"></path></svg></span>åè½è¯´æ</div><div class="admonitionContent_BuS1"><ul>
+<li class=""><strong>å¦è¥ä½ è´­ä¹°çæ¯<code>æ°¸ä¹æé</code>çèå</strong></li>
+<li class=""><strong>è´­ä¹°åè¯·ç¬¬ä¸æ¬¡æ¶é´ç³è¯·å®åç¾¤(<code>è¶è¿72å°æ¶ä»ä¸ç³è¯·ä»£è¡¨æ¾å¼å®åæå¡</code>)</strong></li>
+<li class=""><strong>å®åç¾¤:åå¡ç½-<code>æ¥è¯¢è®¢å</code>[åå«<code>å®åç¾¤å·</code>ä¸<code>ä½¿ç¨æç¨</code>]</strong></li>
+<li class=""><strong>å½ä½ ç³è¯·è¿å¥å®åç¾¤å,è¥ä½ èªè¡éåºï¼åè§ä¸ºæ¾å¼å®åæå¡,ä»æ­¤èåé®é¢èªè¡è§£å³</strong></li>
+</ul></div></div>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="refund">å³äºéæ¬¾<a aria-label="å³äºéæ¬¾çç´æ¥é¾æ¥" class="hash-link" href="#refund" title="å³äºéæ¬¾çç´æ¥é¾æ¥" translate="no">â</a></h2>
+<p>é¤äºä»¥ä¸æåµå¤,å¶ä½å¶ä»æåµä¸å¾ä¸æ¯æéæ¬¾ï¼</p>
+<ul>
+<li class=""><strong>èåèªèº«é®é¢å¯¼è´ä½ æ æ³ä½¿ç¨</strong><span class="text-red"><strong>ï¼ä½ä¸éç¨æååç¥ç»´æ¤çèå/ç¶æåéå¯ç¨çèåï¼</strong></span></li>
+<li class=""><strong>æªæ­£å¸¸åè´§æå</strong></li>
+<li class=""><strong>ä½ æªæ¶å°å¡å¯ä¿¡æ¯</strong></li>
+</ul>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewbox="0 0 14 16"><path d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z" fill-rule="evenodd"></path></svg></span>çè§£ä¸æ¯æ</div><div class="admonitionContent_BuS1"><p><strong>å æ¿æ´»ç ä¿¡æ¯ä¸ç»æ³é²,åæ²¡æä»»ä½æä¹,èæ¿æ´»ç å¡å¯èªèº«ä¹æ¯æææ¬ä»·æ ¼</strong></p><p><strong><code>å¸æçè§£</code></strong></p></div></div>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="indicate">æ³¨æ<a aria-label="æ³¨æçç´æ¥é¾æ¥" class="hash-link" href="#indicate" title="æ³¨æçç´æ¥é¾æ¥" translate="no">â</a></h2>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewbox="0 0 16 16"><path d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z" fill-rule="evenodd"></path></svg></span>ä»£è´­è¯´æ</div><div class="admonitionContent_BuS1"><p><strong>æä»¬åªä»£è´­èå,ä¸åä¸å¨å®çææèåå¼å.</strong></p></div></div>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="èåç¨³å®æ§">èåç¨³å®æ§<a aria-label="èåç¨³å®æ§çç´æ¥é¾æ¥" class="hash-link" href="#èåç¨³å®æ§" title="èåç¨³å®æ§çç´æ¥é¾æ¥" translate="no">â</a></h3>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewbox="0 0 12 16"><path d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z" fill-rule="evenodd"></path></svg></span>ä½¿ç¨å»ºè®®</div><div class="admonitionContent_BuS1"><ul>
+<li class=""><strong>ä¸ä¼ä¹æ²¡æç¾åç¾ç¨³å®çèå,å¦æä½ æå¿è¿ä¸ªæå¿é£ä¸ª,æ¨èä¸å¼.</strong></li>
+<li class=""><strong>å¨æ²¡è¢«æ£æµå°å°±æ¯å¯ç¨,æé®é¢æ¥çæç¨åç¶æ</strong></li>
+</ul></div></div>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="èµ éèåè¯´æ">èµ éèåè¯´æ<a aria-label="èµ éèåè¯´æçç´æ¥é¾æ¥" class="hash-link" href="#èµ éèåè¯´æ" title="èµ éèåè¯´æçç´æ¥é¾æ¥" translate="no">â</a></h3>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewbox="0 0 14 16"><path d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z" fill-rule="evenodd"></path></svg></span>èµ éæ´»å¨</div><div class="admonitionContent_BuS1"><p>åå¡ç½èµ éèåæ´»å¨,ä¸ºåè´¹èµ é,ä¸å¯æµæ¶åè®¢åä»·æ ¼,èµ éèåæ å®åæ¯æ</p></div></div></div></article>

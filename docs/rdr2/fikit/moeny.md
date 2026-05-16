@@ -1,0 +1,29 @@
+---
+sidebar_position: 1
+title: FK å·éæ¡ç¾éæç¨
+slug: /rdr2/fikit/moeny
+---
+
+<article><div class="theme-doc-markdown markdown"><header><h1>FK å·éæ¡ç¾éæç¨</h1></header>
+<div class="theme-admonition theme-admonition-danger admonition_xJq3 alert alert--danger"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewbox="0 0 12 16"><path d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z" fill-rule="evenodd"></path></svg></span>éè¦æé</div><div class="admonitionContent_BuS1"><p><strong>å ä½èåäºéå¶,å¨å¡ç¨æ·æ æ³ä½¿ç¨å¾ªç¯å¥å±åè½<br/>
+<!-- -->æ­¤åè½ä»æ¯æFKæ°¸ä¹å¡ç¨æ·ä½¿ç¨</strong></p><p><strong>å¨å¡ç¨æ·å¯ä¸ææ¥çæ¹æ³2 éè¿å®ç®±è·å</strong></p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="æ¹æ³1-å¾ªç¯å¥å±">æ¹æ³1-å¾ªç¯å¥å±<a aria-label="æ¹æ³1-å¾ªç¯å¥å±çç´æ¥é¾æ¥" class="hash-link" href="#æ¹æ³1-å¾ªç¯å¥å±" title="æ¹æ³1-å¾ªç¯å¥å±çç´æ¥é¾æ¥" translate="no">â</a></h2>
+<p><img alt="alt text" class="img_ev3q" decoding="async" height="480" loading="lazy" src="/assets/images/1-4350514ada6f85d81e6943318a191d9e.avif" width="768"/></p>
+<p><img alt="alt text" class="img_ev3q" decoding="async" height="960" loading="lazy" src="/assets/images/2-a6f15650e54ea87d582b6c26e3bd2114.avif" width="1536"/></p>
+<p><strong>å®ææ¯æ¥ä»»å¡åï¼å¨FKä¸»èååè¿å¥èä¸éé¡¹-å¼å¯å¾ªç¯å¥å±-ææºå³å¯</strong></p>
+<span class="text-red"><strong>(å¦ææ²¡å®æå¯¹åºçæ¯æ¥ä»»å¡,å¼å¯å¾ªç¯å¥å±æ¯æ²¡æææç)</strong></span>
+<p><img alt="alt text" class="img_ev3q" decoding="async" height="480" loading="lazy" src="/assets/images/3-0028f000e18bf56e45342a5d43bb4242.avif" width="768"/></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="æ¹æ³2-ç®±å­äº§åº">æ¹æ³2-ç®±å­äº§åº<a aria-label="æ¹æ³2-ç®±å­äº§åºçç´æ¥é¾æ¥" class="hash-link" href="#æ¹æ³2-ç®±å­äº§åº" title="æ¹æ³2-ç®±å­äº§åºçç´æ¥é¾æ¥" translate="no">â</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1è¿å¥åå»ºèå">1.è¿å¥åå»ºèå<a aria-label="1.è¿å¥åå»ºèåçç´æ¥é¾æ¥" class="hash-link" href="#1è¿å¥åå»ºèå" title="1.è¿å¥åå»ºèåçç´æ¥é¾æ¥" translate="no">â</a></h3>
+<p><img alt="alt text" class="img_ev3q" decoding="async" height="480" loading="lazy" src="/assets/images/4-6a9f5b83bc47aec909c484b5af56eae1.avif" width="768"/></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2è¿å¥çæå®ç®±">2.è¿å¥çæå®ç®±<a aria-label="2.è¿å¥çæå®ç®±çç´æ¥é¾æ¥" class="hash-link" href="#2è¿å¥çæå®ç®±" title="2.è¿å¥çæå®ç®±çç´æ¥é¾æ¥" translate="no">â</a></h3>
+<p><img alt="alt text" class="img_ev3q" decoding="async" height="480" loading="lazy" src="/assets/images/5-86568aa7af4322c6d357d77c6bfb9da5.avif" width="768"/></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3è¿å¥é£é©éé¡¹">3.è¿å¥é£é©éé¡¹<a aria-label="3.è¿å¥é£é©éé¡¹çç´æ¥é¾æ¥" class="hash-link" href="#3è¿å¥é£é©éé¡¹" title="3.è¿å¥é£é©éé¡¹çç´æ¥é¾æ¥" translate="no">â</a></h3>
+<p><img alt="alt text" class="img_ev3q" decoding="async" height="480" loading="lazy" src="/assets/images/6-082cf698f8d09081ce411b3a8521c0f4.avif" width="768"/></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="éæ¡äº§åºæç¨">éæ¡äº§åºæç¨ï¼<a aria-label="éæ¡äº§åºæç¨ï¼çç´æ¥é¾æ¥" class="hash-link" href="#éæ¡äº§åºæç¨" title="éæ¡äº§åºæç¨ï¼çç´æ¥é¾æ¥" translate="no">â</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="4å¼å¯é£é©éé¡¹å¹¶çææéçæ¶èåå®ç®±æ¾å">4.å¼å¯é£é©éé¡¹å¹¶çææéçæ¶èåå®ç®±æ¾å<a aria-label="4.å¼å¯é£é©éé¡¹å¹¶çææéçæ¶èåå®ç®±æ¾åçç´æ¥é¾æ¥" class="hash-link" href="#4å¼å¯é£é©éé¡¹å¹¶çææéçæ¶èåå®ç®±æ¾å" title="4.å¼å¯é£é©éé¡¹å¹¶çææéçæ¶èåå®ç®±æ¾åçç´æ¥é¾æ¥" translate="no">â</a></h4>
+<p><img alt="alt text" class="img_ev3q" decoding="async" height="480" loading="lazy" src="/assets/images/7-8afa5313606612f211cdb4e29dc15412.avif" width="768"/></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="ç¾éäº§åºæç¨">ç¾éäº§åºæç¨ï¼<a aria-label="ç¾éäº§åºæç¨ï¼çç´æ¥é¾æ¥" class="hash-link" href="#ç¾éäº§åºæç¨" title="ç¾éäº§åºæç¨ï¼çç´æ¥é¾æ¥" translate="no">â</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="4è¿å¥å¶ä»å®ç®±-éæ©50ç¾å-å¹¶è®¾ç½®æ°éåå»ºå³å¯">4.è¿å¥å¶ä»å®ç®± éæ©5.0ç¾å å¹¶è®¾ç½®æ°éåå»ºå³å¯<a aria-label="4.è¿å¥å¶ä»å®ç®± éæ©5.0ç¾å å¹¶è®¾ç½®æ°éåå»ºå³å¯çç´æ¥é¾æ¥" class="hash-link" href="#4è¿å¥å¶ä»å®ç®±-éæ©50ç¾å-å¹¶è®¾ç½®æ°éåå»ºå³å¯" title="4.è¿å¥å¶ä»å®ç®± éæ©5.0ç¾å å¹¶è®¾ç½®æ°éåå»ºå³å¯çç´æ¥é¾æ¥" translate="no">â</a></h4>
+<p><img alt="alt text" class="img_ev3q" decoding="async" height="574" loading="lazy" src="/assets/images/8-e2368f0b39d2da3cb33e8ac979c97327.avif" width="768"/></p>
+<p><img alt="alt text" class="img_ev3q" decoding="async" height="599" loading="lazy" src="/assets/images/9-88c58fbfe610e82da8ff7d76a3bd180f.avif" width="768"/></p></div></article>

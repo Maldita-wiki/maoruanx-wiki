@@ -1,0 +1,13 @@
+---
+sidebar_position: 1
+title: å¸¸è§é®é¢
+slug: /rdr2/jf/tis
+---
+
+<article><div class="theme-doc-markdown markdown"><header><h1>å¸¸è§é®é¢</h1></header>
+<!-- -->
+<div class="theme-tabs-container tabs-container tabList__CuJ"><ul aria-orientation="horizontal" class="tabs" role="tablist"><li aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active" role="tab" tabindex="0">å¯å¨åæ§å¶å°åé½æ¯ä¹±ç </li><li aria-selected="false" class="tabs__item tabItem_LNqP" role="tab" tabindex="-1">èååæå­é½æ¯æ¹åä¹±ç </li></ul><div class="margin-top--md"><div class="tabItem_Ymn6" role="tabpanel"><p>ç³»ç»è¯­è¨æ²¡æè¿è¡è®¾ç½®ãææ­¤ç½ç«åæç¨æä½ï¼<a class="" href="https://zhuanlan.zhihu.com/p/409955028" rel="noopener noreferrer" target="_blank">https://zhuanlan.zhihu.com/p/409955028</a></p></div><div class="tabItem_Ymn6" hidden="" role="tabpanel"><p>ææ¸¸æè®¾ç½®ä¸ºç®ä½ä¸­æ</p></div></div></div>
+<div class="theme-tabs-container tabs-container tabList__CuJ"><ul aria-orientation="horizontal" class="tabs" role="tablist"><li aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active" role="tab" tabindex="0">æå¼èååï¼è¿å¥æå±éªé</li><li aria-selected="false" class="tabs__item tabItem_LNqP" role="tab" tabindex="-1">æå¼èååï¼å¯ä»¥å è½½æåï¼ä½F8å¼åºéªé</li></ul><div class="margin-top--md"><div class="tabItem_Ymn6" role="tabpanel"><p>å¸è½½çº¿ä¸ä¿®æ¹å¨ï¼æ¸¸ææ ¹ç®å½ä¸­ççº¿ä¸ä¿®æ¹å¨ä¼åçº¿ä¸çèµ·å²çªã</p></div><div class="tabItem_Ymn6" hidden="" role="tabpanel"><p>å¸è½½çº¿ä¸ä¿®æ¹å¨ï¼æ¸¸ææ ¹ç®å½ä¸­ççº¿ä¸ä¿®æ¹å¨ä¼åçº¿ä¸çèµ·å²çªã</p></div></div></div>
+<div class="theme-tabs-container tabs-container tabList__CuJ"><ul aria-orientation="horizontal" class="tabs" role="tablist"><li aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active" role="tab" tabindex="0">èåéé¡¹èªå·±ä¹±å¨ï¼æèä¸å¼åºå°±æ¶å¤±</li><li aria-selected="false" class="tabs__item tabItem_LNqP" role="tab" tabindex="-1">æ¸¸ææç¤ºéè¦æ¿æ´»ãæ¿æ´»éè¯¯ãç½ç»é¾æ¥å¤±è´¥</li></ul><div class="margin-top--md"><div class="tabItem_Ymn6" role="tabpanel"><p>åå æ¯é®çæå²çªã</p><p>è§£å³åæ³ï¼æä½ shift å å¤æ¬¡å¿«éæå°é®ç 0 æè å¼åºé®ï¼æèå°é®ç82é®ï¼ã å¿«éå¤æå æ¬¡ã</p><blockquote>
+<p>ç»æè§£å³åæ³æ¯éå¯çµèã</p>
+</blockquote></div><div class="tabItem_Ymn6" hidden="" role="tabpanel"><p>é½æ¯å ä¸ºç½ç»å éå¨çé®é¢ï¼åå°å·æ²¡æå³ç³»ï¼æ°ç©å®¶ä»¬æ³¨æäºï¼æç¤ºè¿ä¸ªéå¯å éå¨éä¸æ¸¸æå°±å¥½äºã</p><p>æå¿æ¯å¦è¢«å°å·çï¼å»æ¥çé®ç®±çææ²¡æå°å·é®ä»¶å°±å¯ä»¥äºï¼</p></div></div></div></div></article>

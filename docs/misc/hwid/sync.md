@@ -1,0 +1,7 @@
+---
+sidebar_position: 1
+title: Sync
+slug: /misc/hwid/sync
+---
+
+<article class="margin-top--lg"><section class="row"><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/misc/hwid/sync/use"><h2 class="text--truncate cardTitle_rnsV" title="ä½¿ç¨æç¨">ðï¸<!-- --> <!-- -->ä½¿ç¨æç¨</h2><p class="text--truncate cardDescription_PWke" title="å¼å®¹æ£æµ">å¼å®¹æ£æµ</p></a></article><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/misc/hwid/sync/hwid"><h2 class="text--truncate cardTitle_rnsV" title="è§£ç»æç¨">ðï¸<!-- --> <!-- -->è§£ç»æç¨</h2><p class="text--truncate cardDescription_PWke" title="ä»ä¸ºæ¬ç¾¤ç¨æ·è§£ç»">ä»ä¸ºæ¬ç¾¤ç¨æ·è§£ç»</p></a></article><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/misc/hwid/sync/tis"><h2 class="text--truncate cardTitle_rnsV" title="å¸¸è§é®é¢">ðï¸<!-- --> <!-- -->å¸¸è§é®é¢</h2><p class="text--truncate cardDescription_PWke" title="è´­ä¹°ä¹åè¯·å¡å¿æ¥çå®æ´,å¦åå¯¼è´èªå·±æ æ³ä½¿ç¨ååæèªè´">è´­ä¹°ä¹åè¯·å¡å¿æ¥çå®æ´,å¦åå¯¼è´èªå·±æ æ³ä½¿ç¨ååæèªè´</p></a></article></section></article>

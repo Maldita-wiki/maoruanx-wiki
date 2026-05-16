@@ -1,0 +1,17 @@
+---
+sidebar_position: 1
+title: DXä¿®å¤å·¥å·ä½¿ç¨æç¨
+slug: /misc/win/dx
+---
+
+<article><div class="theme-doc-markdown markdown"><header><h1>DXä¿®å¤å·¥å·ä½¿ç¨æç¨</h1></header>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ä¸è½½">ä¸è½½<a aria-label="ä¸è½½çç´æ¥é¾æ¥" class="hash-link" href="#ä¸è½½" title="ä¸è½½çç´æ¥é¾æ¥" translate="no">â</a></h2>
+<p><strong>å¯éè¿ä¸é¢2ç§æ¹å¼ ä¸è½½ DXä¿®å¤å·¥å·</strong></p>
+<div class="theme-tabs-container tabs-container tabList__CuJ"><ul aria-orientation="horizontal" class="tabs" role="tablist"><li aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active" role="tab" tabindex="0">å®è£å¨ä¸è½½</li><li aria-selected="false" class="tabs__item tabItem_LNqP" role="tab" tabindex="-1">ç½çä¸è½½</li></ul><div class="margin-top--md"><div class="tabItem_Ymn6" role="tabpanel"><p><strong><a class="" href="https://lanzout.com/azq" rel="noopener noreferrer" target="_blank">ç¹å»ä¸è½½å®è£å¨</a></strong></p><blockquote>
+<p><strong>å³é®-&gt;<code>ä»¥ç®¡çåèº«ä»½è¿è¡</code>å®è£å¨</strong></p>
+</blockquote><p><img alt="alt text" class="img_ev3q" decoding="async" height="800" loading="lazy" src="/assets/images/1-562474d4fb3dfba8db56c635e5820e72.png" width="1222"/></p></div><div class="tabItem_Ymn6" hidden="" role="tabpanel"><p><strong><a class="" href="https://lanzout.com/dxxfgj" rel="noopener noreferrer" target="_blank">ç¹å»ä¸è½½DXä¿®å¤å·¥å·</a></strong></p><p><img alt="alt text" class="img_ev3q" decoding="async" loading="lazy" src="https://images.weserv.nl/?url=https%3A%2F%2Fcdn.nlark.com%2Fyuque%2F0%2F2020%2Fpng%2F1586268%2F1600256738747-c245378c-83bf-4b92-b3e4-8e980b11ea5d.png"/></p><p><img alt="alt text" class="img_ev3q" decoding="async" loading="lazy" src="https://images.weserv.nl/?url=https%3A%2F%2Fcdn.nlark.com%2Fyuque%2F0%2F2020%2Fpng%2F1586268%2F1600256654670-e6f09539-965e-4124-9704-5c6a7888a2a1.png"/></p><p><img alt="alt text" class="img_ev3q" decoding="async" loading="lazy" src="https://images.weserv.nl/?url=https%3A%2F%2Fcdn.nlark.com%2Fyuque%2F0%2F2020%2Fpng%2F1586268%2F1607177269100-1f65c575-337c-4b2b-a3c8-356d7be7fe22.png"/></p></div></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ä¿®å¤è¿è¡åº">ä¿®å¤è¿è¡åº<a aria-label="ä¿®å¤è¿è¡åºçç´æ¥é¾æ¥" class="hash-link" href="#ä¿®å¤è¿è¡åº" title="ä¿®å¤è¿è¡åºçç´æ¥é¾æ¥" translate="no">â</a></h2>
+<p><img alt="https://cdn.nlark.com/yuque/0/2020/png/1586268/1600256656910-39b0ef46-02e4-48cb-9e5a-9a3e23e47278.png" class="img_ev3q" decoding="async" loading="lazy" src="https://images.weserv.nl/?url=https%3A%2F%2Fcdn.nlark.com%2Fyuque%2F0%2F2020%2Fpng%2F1586268%2F1600256656910-39b0ef46-02e4-48cb-9e5a-9a3e23e47278.png"/></p>
+<p><img alt="https://cdn.nlark.com/yuque/0/2020/png/1586268/1600256657822-34105a84-24f9-43a3-a29c-eb99f00a5c6d.png" class="img_ev3q" decoding="async" loading="lazy" src="https://images.weserv.nl/?url=https%3A%2F%2Fcdn.nlark.com%2Fyuque%2F0%2F2020%2Fpng%2F1586268%2F1600256657822-34105a84-24f9-43a3-a29c-eb99f00a5c6d.png"/></p>
+<p><img alt="https://cdn.nlark.com/yuque/0/2020/png/1586268/1600256658722-da5f7dcc-21df-4cf9-b32c-abcb524df1d7.png" class="img_ev3q" decoding="async" loading="lazy" src="https://images.weserv.nl/?url=https%3A%2F%2Fcdn.nlark.com%2Fyuque%2F0%2F2020%2Fpng%2F1586268%2F1600256658722-da5f7dcc-21df-4cf9-b32c-abcb524df1d7.png"/></p></div></article>
