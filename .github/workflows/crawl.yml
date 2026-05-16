@@ -1,0 +1,37 @@
+name: Crawl & Build
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install beautifulsoup4 requests
+
+      - name: Run scraper
+        run: python scripts/scrape.py
+
+      - name: Count docs
+        run: find docs/ -name "*.md" | wc -l
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: sync docs from source [skip ci]"
+          git push
