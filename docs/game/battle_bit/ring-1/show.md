@@ -1,0 +1,13 @@
+---
+sidebar_position: 1
+title: åè½å±ç¤º
+slug: /game/battle_bit/ring-1/show
+---
+
+<article><div class="theme-doc-markdown markdown"><header><h1>åè½å±ç¤º</h1></header>
+<!-- -->
+<div class="theme-tabs-container tabs-container tabList__CuJ"><ul aria-orientation="horizontal" class="tabs" role="tablist"><li aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active" role="tab" tabindex="0">Aimbot | èªç</li><li aria-selected="false" class="tabs__item tabItem_LNqP" role="tab" tabindex="-1">Character ESP | éè§</li><li aria-selected="false" class="tabs__item tabItem_LNqP" role="tab" tabindex="-1">Radar | é·è¾¾</li><li aria-selected="false" class="tabs__item tabItem_LNqP" role="tab" tabindex="-1">Misc | æé¡¹</li><li aria-selected="false" class="tabs__item tabItem_LNqP" role="tab" tabindex="-1">Object ESP | ç©åéè§</li></ul><div class="margin-top--md"><div class="tabItem_Ymn6" role="tabpanel"><p>Aim at specific boneä¸¨éå¯¹ç¹å®éª¨éª¼</p><p>Aim hotkeyä¸¨èªçå¿«æ·é®</p><p>Field-of-viewä¸¨èå´</p><p>Aim smoothingä¸¨èªçå¹³æ»</p><p>Target selectorä¸¨çåç®æ </p><p>Lock targetä¸¨éå®ç®æ </p><p>Switch target delay after killä¸¨å»æååæ¢ç®æ å»¶è¿</p><p>Draw crosshairä¸¨ç»å¶åå­åæ</p><p>Show snaplinesä¸¨æ¾ç¤ºéè§çº¿</p><p>Visibility checksä¸¨å¯è§æ§æ£æ¥</p></div><div class="tabItem_Ymn6" hidden="" role="tabpanel"><p>Max bones render distanceä¸¨æå¤§éª¨éª¼æ¸²æè·ç¦»</p><p>Bone styleä¸¨éª¨éª¼æ ·å¼</p><p>Battlemodeä¸¨æææ¨¡å¼</p><p>Max render distanceä¸¨æå¤§æ¸²æè·ç¦»</p><p>Max healthbar render distanceä¸¨æå¤§è¡æ¡æ¸²æè·ç¦»</p><p>Max name render distanceä¸¨æå¤§åç§°æ¸²æè·ç¦»</p><p>Max info render distanceä¸¨æå¤§ä¿¡æ¯æ¸²æè·ç¦»</p><p>Healthbar positionä¸¨è¡æ¡ä½ç½®</p><p>Healthbar styleä¸¨è¡æ¡é£æ ¼</p><p>Border styleä¸¨æ¹æ¡æ ·å¼</p><p>Visibility checksä¸¨å¯è§æ§æ£æ¥</p></div><div class="tabItem_Ymn6" hidden="" role="tabpanel"><p>Show enemiesä¸¨æ¾ç¤ºæäºº</p><p>Show friendlyä¸¨æ¾ç¤ºå¥½å</p><p>Colorä¸¨é¢è²</p></div><div class="tabItem_Ymn6" hidden="" role="tabpanel"><p>Weaponä¸¨æ­¦å¨</p><blockquote>
+<p>No recoilä¸¨æ ååº§å</p>
+</blockquote><p>Cameraä¸¨è§è§</p><blockquote>
+<p>No shakeä¸¨æ éå¨</p>
+</blockquote></div><div class="tabItem_Ymn6" hidden="" role="tabpanel"><p>Battlemodeä¸¨æææ¨¡å¼</p><p>Max render distanceä¸¨æå¤§æ¸²æè·ç¦»</p><p>Max name render distanceä¸¨æå¤§åç§°æ¸²æè·ç¦»</p><p>Max info render distanceä¸¨æå¤§ä¿¡æ¯æ¸²æè·ç¦»</p><p>Objectsä¸¨å¯¹è±¡</p><p>All vehiclesä¸¨ææè½½å·</p></div></div></div></div></article>

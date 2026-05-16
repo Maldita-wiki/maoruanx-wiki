@@ -1,0 +1,7 @@
+---
+sidebar_position: 1
+title: çè´¼ä¹æµ· SOT
+slug: /game/sot
+---
+
+<article class="margin-top--lg"><section class="row"><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/game/sot/buy"><h2 class="text--truncate cardTitle_rnsV" title="èåæ¨èè¯´æ">ðï¸<!-- --> <!-- -->èåæ¨èè¯´æ</h2><p class="text--truncate cardDescription_PWke" title="ç®åçè¯´æåç±»ä¸ä¸ç®åSOTçèåï¼By hzä¸¨æåæ´æ°æ¶é´ï¼2024.09.25">ç®åçè¯´æåç±»ä¸ä¸ç®åSOTçèåï¼By hzä¸¨æåæ´æ°æ¶é´ï¼2024.09.25</p></a></article><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/game/sot/cmh"><h2 class="text--truncate cardTitle_rnsV" title="CMH">ðï¸<!-- --> <!-- -->CMH</h2><p class="text--truncate cardDescription_PWke" title="6 ä¸ªé¡¹ç®">6 ä¸ªé¡¹ç®</p></a></article><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/game/sot/0xcheats"><h2 class="text--truncate cardTitle_rnsV" title="0xcheats">ðï¸<!-- --> <!-- -->0xcheats</h2><p class="text--truncate cardDescription_PWke" title="2 ä¸ªé¡¹ç®">2 ä¸ªé¡¹ç®</p></a></article><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/game/sot/nemesis"><h2 class="text--truncate cardTitle_rnsV" title="Nemesis åæ">ðï¸<!-- --> <!-- -->Nemesis åæ</h2><p class="text--truncate cardDescription_PWke" title="4 ä¸ªé¡¹ç®">4 ä¸ªé¡¹ç®</p></a></article></section></article>

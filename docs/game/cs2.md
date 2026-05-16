@@ -1,0 +1,7 @@
+---
+sidebar_position: 1
+title: CS2
+slug: /game/cs2
+---
+
+<article class="margin-top--lg"><section class="row"><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/game/cs2/predator"><h2 class="text--truncate cardTitle_rnsV" title="Predator">ðï¸<!-- --> <!-- -->Predator</h2><p class="text--truncate cardDescription_PWke" title="2 ä¸ªé¡¹ç®">2 ä¸ªé¡¹ç®</p></a></article><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/game/cs2/fikit"><h2 class="text--truncate cardTitle_rnsV" title="Fikit">ðï¸<!-- --> <!-- -->Fikit</h2><p class="text--truncate cardDescription_PWke" title="2 ä¸ªé¡¹ç®">2 ä¸ªé¡¹ç®</p></a></article><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/game/cs2/midnight"><h2 class="text--truncate cardTitle_rnsV" title="Midnight åå¤">ðï¸<!-- --> <!-- -->Midnight åå¤</h2><p class="text--truncate cardDescription_PWke" title="5 ä¸ªé¡¹ç®">5 ä¸ªé¡¹ç®</p></a></article><article class="docCardListItem_W1sv col col--6"><a class="card padding--lg cardContainer_fWXF" href="/game/cs2/fecurity"><h2 class="text--truncate cardTitle_rnsV" title="Fecurity ç¼å¤´">ðï¸<!-- --> <!-- -->Fecurity ç¼å¤´</h2><p class="text--truncate cardDescription_PWke" title="2 ä¸ªé¡¹ç®">2 ä¸ªé¡¹ç®</p></a></article></section></article>

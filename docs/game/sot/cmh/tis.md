@@ -1,0 +1,18 @@
+---
+sidebar_position: 1
+title: çé¾æç
+slug: /game/sot/cmh/tis
+---
+
+<article><div class="theme-doc-markdown markdown"><header><h1>çé¾æç</h1></header>
+<!-- -->
+<div class="theme-tabs-container tabs-container tabList__CuJ"><ul aria-orientation="horizontal" class="tabs" role="tablist"><li aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active" role="tab" tabindex="0">æ³¨å¥æç¤ºinjection failed  </li><li aria-selected="false" class="tabs__item tabItem_LNqP" role="tab" tabindex="-1">æ æ³è¿è¡æ³¨å¥å¨</li><li aria-selected="false" class="tabs__item tabItem_LNqP" role="tab" tabindex="-1">ç½ç»é®é¢</li></ul><div class="margin-top--md"><div class="tabItem_Ymn6" role="tabpanel"><p><img alt="" class="img_ev3q" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/item/69595e361bba575713f789e2.jpg"/></p><p><strong>è§£å³æ¹æ³1:</strong></p><p><strong>æå¼<code>çæ¯ä¸é²æ¤</code>âæç§ä¸å¾æç¤ºè®¾ç½®</strong></p><p><img alt="" class="img_ev3q" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/item/69595e431bba575713f789e3.jpg"/></p><p><strong>è§£å³åæ³2ï¼</strong></p><p><strong>ç¡®ä¿ä»¥ç®¡çåæéå¨Winè´¦æ·ä¸è¿è¡æ³¨å¥</strong></p></div><div class="tabItem_Ymn6" hidden="" role="tabpanel"><p><a class="" href="/misc/win/systemprotection">ææ¯è®¾ç½®</a></p><p><a class="" href="/injecterror/start#fhq">é²ç«å¢è®¾ç½®</a></p><p><a class="" href="/misc/win/application">å³é­æºè½åºç¨æ§å¶</a></p><p><strong>å¶ä»æ£æ¥è®¾ç½®</strong></p><blockquote>
+<p><strong>ä½¿ç¨<code>DXä¿®å¤å·¥å·</code>ä¿®å¤</strong>
+<a class="" href="/misc/win/dx">DXä¿®å¤æç¨</a>
+<strong>å³é­éåºææè¦çå±è½¯ä»¶ ä¾å¦:<code>GAME++</code>,<code>å¾®æå°é£æºMSI</code> <code>Afterburner</code>,<code>NVIDIA GeForce</code>,<code>OneDrive</code>ç­ç­</strong></p>
+<p><strong>å³é­éåºä½ çµèéçåç§è°è¯å¨ ä¾å¦ï¼<code>CE</code></strong></p>
+<p><strong>å¸è½½ä½ çµèéçåç§æ¨¡æå¨ ä¾å¦ï¼<code>è¾è®¯æ¨¡æå¨</code></strong></p>
+</blockquote></div><div class="tabItem_Ymn6" hidden="" role="tabpanel"><p><img alt="" class="img_ev3q" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/item/69595e511bba575713f789e4.jpg"/></p><p><strong>éæ°æå¼CMHå¯å¨å¨ï¼è¥ä¸ç´åºç°ï¼ä½¿ç¨ç§å­¦ä¸ç½ï¼</strong>
+<a class="" href="/misc/win/vpn">ç§å­¦ä¸ç½</a></p></div></div></div>
+<div class="theme-tabs-container tabs-container tabList__CuJ"><ul aria-orientation="horizontal" class="tabs" role="tablist"><li aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active" role="tab" tabindex="0">4.</li></ul><div class="margin-top--md"><div class="tabItem_Ymn6" role="tabpanel"><p><img alt="" class="img_ev3q" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/item/69595e761bba575713f789e7.jpg"/></p><p><strong>è¯·å³é­æ¸¸æï¼å¨æ¸¸æå¯å¨åæå¼å¯å¨å¨</strong></p></div></div></div>
+<div class="theme-tabs-container tabs-container tabList__CuJ"><ul aria-orientation="horizontal" class="tabs" role="tablist"><li aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active" role="tab" tabindex="0">5.</li></ul><div class="margin-top--md"><div class="tabItem_Ymn6" role="tabpanel"><p><img alt="" class="img_ev3q" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/item/69595e7e1bba575713f789e9.jpg"/></p><p><strong>å³é­CMHå¯å¨å¨ï¼å³é­æ¸¸æï¼éæ°æå¼CMHå¯å¨å¨æ³¨å¥ï¼å¦æä¸ç´åºç°è¯·å°è¯å¤æ¬¡æ³¨å¥ï¼</strong></p></div></div></div></div></article>
