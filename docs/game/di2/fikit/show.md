@@ -1,0 +1,34 @@
+---
+sidebar_position: 1
+title: éè¦å¯ç¨ JavaScript
+slug: /game/di2/fikit/show
+---
+
+<article><div class="theme-doc-markdown markdown"><header><h1>FK åè½ä»ç»</h1></header>
+<p><strong><span class="text-grey">èååè½å¾åä»ç»</span></strong></p>
+<h2 class="anchor anchorTargetStickyNavbar_lorJ" id="list"><strong>èååè¡¨</strong><a aria-label="listçç´æ¥é¾æ¥" class="hash-link" href="#list" title="listçç´æ¥é¾æ¥" translate="no">â</a></h2>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tP8SeXeHt86YIiZxKwx.png"/></p></div>
+<h2 class="anchor anchorTargetStickyNavbar_lorJ" id="details"><strong>èååè½å¾</strong><a aria-label="detailsçç´æ¥é¾æ¥" class="hash-link" href="#details" title="detailsçç´æ¥é¾æ¥" translate="no">â</a></h2>
+<!-- -->
+<div class="root_hF_0" data-deadisland2-fikit-preview="true"><div class="interactionHint_kNbk" role="note"><span aria-hidden="true" class="hintIcon_xnve"><svg viewbox="0 0 20 20"><path d="M4.2 2.7 14.8 9l-4.15 1.22L8.3 14.1 4.2 2.7Z"></path><path d="m10.45 10.4 3.15 4.9"></path></svg></span><span class="hintCopy_e4cD"><b>äº¤äºå¼åè½é¢è§</b><small>å¯ç¹å»åç±»ãåæ¢åé¡µãå¼å³åè½ãæå¨åæ°ï¼å¹¶å¨è®¾ç½®ä¸­åæ¢ä¸­æ / Englishã</small></span><span class="hintBadge_mX5U">å¯äº¤äº</span></div><div class="shell_zq6g"><main class="main_LvW7"><div class="panelHeader_xjLd"><strong>ç©å®¶ / ä¸§å°¸ Â· ç©å®¶</strong><span>â¼ <!-- -->å­èåéé¡¹</span></div><div class="tabs_Jo8m"><button class="tabActive_S08Y" type="button">ç©å®¶</button><button class="" type="button">ä¸§å°¸</button></div><div class="content_o7we"><div class="entityGrid_m5FL"><section class="groupBox__KR2"><h3>ç©å®¶</h3><button aria-pressed="false" class="toggleRow_lpKZ" type="button"><span class="checkbox_S8MY"><svg viewbox="0 0 16 16"><path d="m3 8 3 3 7-7"></path></svg></span><span>å¯ç¨ ç©å®¶</span></button><button aria-pressed="false" class="toggleRow_lpKZ" type="button"><span class="checkbox_S8MY"><svg viewbox="0 0 16 16"><path d="m3 8 3 3 7-7"></path></svg></span><span>ç»å¶æ¹æ¡</span></button><button aria-pressed="false" class="toggleRow_lpKZ" type="button"><span class="checkbox_S8MY"><svg viewbox="0 0 16 16"><path d="m3 8 3 3 7-7"></path></svg></span><span>éª¨éª¼</span></button><div class="colorLine_ZDe1"><span>ç©å®¶é¢è²</span><label class="colorChip_xgZh" style="--chip:#c522ff" title="#c522ff"><input type="color" value="#c522ff"/><span></span></label></div><div class="colorLine_ZDe1"><span>å¯è§é¢è²</span><label class="colorChip_xgZh" style="--chip:#31ff31" title="#31ff31"><input type="color" value="#31ff31"/><span></span></label></div></section><section class="groupBox__KR2"><h3>æ¾ç¤ºåæ°</h3><label class="slider_bybF"><span><b>æå­å¤§å°</b><em>0.000</em></span><input max="40" min="0" step="0.01" style="--pct:0%" type="range" value="0"/></label><label class="slider_bybF"><span><b>æå¤§è·ç¦»</b><em>0.000</em></span><input max="5000" min="0" step="0.01" style="--pct:0%" type="range" value="0"/></label></section></div></div></main></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_lorJ" id="demo"><strong>é¨ååè½å±ç¤º</strong><a aria-label="demoçç´æ¥é¾æ¥" class="hash-link" href="#demo" title="demoçç´æ¥é¾æ¥" translate="no">â</a></h2>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tPK41slFrdK35TEolWO.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tOirMEZqeSv0DAZ05QD.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tOtPvje2L6139JGf8MD.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tOsHrvaxzPAEnlQ3e2i.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tPYUT3G28jQq96AzoN4.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tOxHvsTjywZshCq08mV.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tPLa3sEg8CDEC0MomTF.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tPax7gY0uahRFmF3Xwo.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tOrzaQQE4ORYETIJbNi.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tOf7OtezZnWAKPYp3uB.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tPbCmaRMzMzUT7mYH9U.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tPUNUDPYk0IbSXzkg6D.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tP5Sn827mcPX4KUBTwz.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tPTbbAK0Z99AHFspQso.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tOe346sttDR5FdJr5Ma.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tPYwHBG8xdwH2Hvr6fH.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tOp95PPyHL4rzbiy1U8.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tPbVSYZxesk3yImsnhG.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tPSzGOwoIyGb5ZPSy8D.jpg"/></p></div>
+<div style="text-align:center"><p><img alt="" class="img_i2Xa" decoding="async" loading="lazy" src="https://pic1.imgdb.cn/i/034tOqjL8VrN5WOJD5d1Bm.jpg"/></p></div></div></article>
