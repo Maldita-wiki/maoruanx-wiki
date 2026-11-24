@@ -1,0 +1,7 @@
+---
+sidebar_position: 1
+title: éè¦å¯ç¨ JavaScript
+slug: /game/dnd/aggressive/use
+---
+
+<article><div class="theme-doc-markdown markdown"><div><header><h1>AGGRESSIVE ä½¿ç¨æç¨</h1></header><p><strong><span class="text-grey">Dark and Darker æ³¨åãæ¿æ´»ä¸å è½½æå¼</span></strong></p><section aria-label="AGGRESSIVE å±ç¨æç¨" style="margin-top:24px;padding:24px;border:1px solid var(--ifm-color-emphasis-200);border-radius:12px;background:var(--ifm-background-surface-color)"><p style="margin:0 0 8px;font-size:1.08rem;font-weight:700">å±ç¨å è½½æµç¨</p><p style="margin:0 0 18px;line-height:1.8;color:var(--ifm-color-emphasis-700)">æ³¨åãæ¿æ´»ä¸å è½½æµç¨ä¸è´ãåè ROB RUN æç¨æä½ï¼å¹¶å¨å¯å¨å¨ä¸­éæ© <strong>Dark and Darker</strong> é¡¹ç®ã</p><a href="/game/robrun/aggressive/use" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:10px;padding:10px 16px;border:1px solid var(--ifm-color-emphasis-300);border-radius:8px;color:var(--ifm-color-primary);font-weight:600;text-decoration:none" target="_blank">æå¼ AGGRESSIVE ä½¿ç¨æç¨ <span aria-hidden="true">â</span></a><p style="margin:14px 0 0;font-size:.85rem;line-height:1.7;color:var(--ifm-color-emphasis-600)">ROB RUN çæ¸¸ææ±åé¨åä¸éç¨äºæ¬æ¸¸æã</p></section></div></div></article>
